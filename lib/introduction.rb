@@ -13,7 +13,7 @@ end
 #Define a Method With an Optional Parameter
 #Copy the previous method and name it introduction_with_language_optional. It takes in two parameters, name and language, but the second parameter is optional. The default value for language will be "Ruby".
 def introduction_with_language_optional(name,language="Ruby")
-  puts "Hi, my name is #{name} and I am learning to program in #{language}."  
+  puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
 
